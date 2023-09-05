@@ -432,6 +432,10 @@ a {
   margin-right: 40px;
 }
 
+.player>img,.arrow:hover{
+  cursor: pointer;
+}
+
 @media screen and (max-width: 1170px) {
   .card {
     flex-wrap: wrap;
